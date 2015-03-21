@@ -1,57 +1,57 @@
-﻿生成启动时间为 2015/3/19 22:35:53。
-     1>项目“G:\workspace\speech_recognization\Speech Recognition\Speech Recognition\Speech Recognition.vcxproj”在节点 2 上(Rebuild 个目标)。
+﻿生成启动时间为 2015/3/21 19:06:24。
+     1>项目“G:\workspace\speech_recognization\speech-recognization-system\Speech Recognition\Speech Recognition\Speech Recognition.vcxproj”在节点 2 上(Rebuild 个目标)。
      1>ClCompile:
-         D:\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt datacapture.cpp featurecomputation.cpp fft.cpp main.cpp readwave.cpp
+         D:\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt datacapture.cpp featurecomputation.cpp fft.cpp main.cpp readwave.cpp
          readwave.cpp
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\readwave.h(9): warning C4091: “extern ”: 没有声明变量时忽略“WavFileHead”的左侧
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\readwave.cpp(63): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 d:\visual studio\vc\include\stdio.h(218) : 参见“fopen”的声明
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\readwave.cpp(90): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 d:\visual studio\vc\include\string.h(110) : 参见“strcpy”的声明
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\readwave.cpp(91): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 d:\visual studio\vc\include\string.h(110) : 参见“strcpy”的声明
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\readwave.cpp(100): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 d:\visual studio\vc\include\string.h(110) : 参见“strcpy”的声明
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\readwave.cpp(112): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 d:\visual studio\vc\include\stdio.h(218) : 参见“fopen”的声明
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\readwave.cpp(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 d:\visual studio\vc\include\stdio.h(218) : 参见“fopen”的声明
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\readwave.cpp(170): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 d:\visual studio\vc\include\stdio.h(218) : 参见“fopen”的声明
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\readwave.cpp(201): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 d:\visual studio\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\readwave.h(9): warning C4091: “extern ”: 没有声明变量时忽略“WavFileHead”的左侧
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\readwave.cpp(63): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\readwave.cpp(90): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 11.0\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\readwave.cpp(91): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 11.0\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\readwave.cpp(100): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 11.0\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\readwave.cpp(112): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\readwave.cpp(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\readwave.cpp(170): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\readwave.cpp(201): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
          main.cpp
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\readwave.h(9): warning C4091: “extern ”: 没有声明变量时忽略“WavFileHead”的左侧
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\featurecomputation.h(11): warning C4305: “初始化”: 从“double”到“const float”截断
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\readwave.h(9): warning C4091: “extern ”: 没有声明变量时忽略“WavFileHead”的左侧
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\featurecomputation.h(11): warning C4305: “初始化”: 从“double”到“const float”截断
          fft.cpp
          featurecomputation.cpp
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\readwave.h(9): warning C4091: “extern ”: 没有声明变量时忽略“WavFileHead”的左侧
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\featurecomputation.h(11): warning C4305: “初始化”: 从“double”到“const float”截断
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\featurecomputation.cpp(16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\featurecomputation.cpp(48): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\featurecomputation.cpp(55): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\featurecomputation.cpp(55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\featurecomputation.cpp(79): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\featurecomputation.cpp(99): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\featurecomputation.cpp(110): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\featurecomputation.cpp(224): warning C4244: “初始化”: 从“const float”转换到“int”，可能丢失数据
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\featurecomputation.cpp(225): warning C4244: “初始化”: 从“const float”转换到“int”，可能丢失数据
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\featurecomputation.cpp(230): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\featurecomputation.cpp(237): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\featurecomputation.cpp(259): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\featurecomputation.cpp(262): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\readwave.h(9): warning C4091: “extern ”: 没有声明变量时忽略“WavFileHead”的左侧
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\featurecomputation.h(11): warning C4305: “初始化”: 从“double”到“const float”截断
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\featurecomputation.cpp(16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\featurecomputation.cpp(48): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\featurecomputation.cpp(55): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\featurecomputation.cpp(55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\featurecomputation.cpp(79): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\featurecomputation.cpp(99): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\featurecomputation.cpp(110): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\featurecomputation.cpp(224): warning C4244: “初始化”: 从“const float”转换到“int”，可能丢失数据
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\featurecomputation.cpp(225): warning C4244: “初始化”: 从“const float”转换到“int”，可能丢失数据
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\featurecomputation.cpp(230): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\featurecomputation.cpp(237): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\featurecomputation.cpp(259): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\featurecomputation.cpp(262): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
          datacapture.cpp
-     1>g:\workspace\speech_recognization\speech recognition\speech recognition\readwave.h(9): warning C4091: “extern ”: 没有声明变量时忽略“WavFileHead”的左侧
+     1>g:\workspace\speech_recognization\speech-recognization-system\speech recognition\speech recognition\readwave.h(9): warning C4091: “extern ”: 没有声明变量时忽略“WavFileHead”的左侧
          正在生成代码...
        Link:
-         D:\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\workspace\speech_recognization\Speech Recognition\Debug\Speech Recognition.exe" /INCREMENTAL /NOLOGO /LIBPATH:"G:\workspace\speech_recognization\Speech Recognition\Speech Recognition\library" portaudio_x86.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\workspace\speech_recognization\Speech Recognition\Debug\Speech Recognition.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\workspace\speech_recognization\Speech Recognition\Debug\Speech Recognition.lib" /MACHINE:X86 Debug\datacapture.obj
+         D:\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\workspace\speech_recognization\speech-recognization-system\Speech Recognition\Debug\Speech Recognition.exe" /INCREMENTAL /NOLOGO /LIBPATH:"G:\workspace\speech_recognization\speech-recognization-system\Speech Recognition\Speech Recognition\library" portaudio_x86.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\workspace\speech_recognization\speech-recognization-system\Speech Recognition\Debug\Speech Recognition.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\workspace\speech_recognization\speech-recognization-system\Speech Recognition\Debug\Speech Recognition.lib" /MACHINE:X86 Debug\datacapture.obj
          Debug\featurecomputation.obj
          Debug\fft.obj
          Debug\main.obj
          Debug\readwave.obj
-         Speech Recognition.vcxproj -> G:\workspace\speech_recognization\Speech Recognition\Debug\Speech Recognition.exe
-     1>已完成生成项目“G:\workspace\speech_recognization\Speech Recognition\Speech Recognition\Speech Recognition.vcxproj”(Rebuild 个目标)的操作。
+         Speech Recognition.vcxproj -> G:\workspace\speech_recognization\speech-recognization-system\Speech Recognition\Debug\Speech Recognition.exe
+     1>已完成生成项目“G:\workspace\speech_recognization\speech-recognization-system\Speech Recognition\Speech Recognition\Speech Recognition.vcxproj”(Rebuild 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:08.12
+已用时间 00:00:03.97
